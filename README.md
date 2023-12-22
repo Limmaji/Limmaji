@@ -12,7 +12,7 @@
 
 ## :pushpin: Contact
 - 이메일: cisl159@naver.com
-- 깃헙: https://github.com/JungHyung2
+- 깃헙: https://github.com/Limmaji
 
 </br>
 
