@@ -5,13 +5,13 @@
 </br>
 
 ## :pushpin: Intro
-(여기에 자기 소개)
+빅데이터 개발자를 목표로 끊임없이 성장해가는 중 입니다.
+
 
 </br>
 
 ## :pushpin: Contact
-- 이메일: wjdgud9420@gmail.com
-- 블로그: 
+- 이메일: cisl159@naver.com
 - 깃헙: https://github.com/JungHyung2
 
 </br>
