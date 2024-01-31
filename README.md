@@ -12,14 +12,14 @@
 
 
 
-## :pushpin: Contact
+##  ☎ Contact
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:hyeji13587@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
-    
+    </br>
 
-## 🔨 Once I've used 🔨
+##  💻 My Stacks
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
