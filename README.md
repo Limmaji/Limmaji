@@ -2,7 +2,7 @@
 
 
 ## 💡 PORTFOLIO
-[![PORTFOLIO](https://github-readme-card.vercel.app/api?username=hyeji)](https://github.com/Limmaji/hyeji)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 </br>
 </br>
