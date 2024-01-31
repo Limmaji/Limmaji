@@ -2,7 +2,8 @@
 
 
 ## 💡 PORTFOLIO
-[![PORTFOLIO](https://github.com/Limmaji-stats.vercel.app/api?name=hyeji)](https://github.com/Limmaji/hyeji.git)
+[![PORTFOLIO](https://github-readme-stats.vercel.app/api?username=hyeji)](https://github.com/Limmaji/hyeji)
+
 </br>
 </br>
 
