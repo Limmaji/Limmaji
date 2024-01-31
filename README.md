@@ -2,7 +2,7 @@
 
 
 ## 💡 PORTFOLIO
-[![PORTFOLIO](https://github.com/Limmaji/hyeji.git)
+[![PORTFOLIO](https://velog-readme-stats.vercel.app/api?name=bi-sz)](https://github.com/Limmaji/hyeji.git)
 </br>
 </br>
 
