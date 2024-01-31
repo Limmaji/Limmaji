@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeAuto&height=200&section=header&20render&fontSize=90&text=Hyeji's Git-Hub)
 
 
-## PORTFOLIO
+## 💡 PORTFOLIO
 
 </br>
 </br>
@@ -78,7 +78,7 @@
 </br>
 
 
-## PROJECT
+## 📁 PROJECT
 ### 1. [마약 예방 교육용 웹 페이지 개발 : 강력 1팀](https://github.com/2023-SMHRD-IS-CLOUD-1/StrongRepo)
 > 마약 예방을 위한 체험 위주 교육용 웹 페이지 개발 (팀 프로젝트)  
 >개발 기간: 2023.11.22 ~ 2023.12.07  
