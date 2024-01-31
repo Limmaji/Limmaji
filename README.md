@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=200&section=header&text=Hyeji's%Git-Hub%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=200&section=header&text=Hyeji'sGit-Hub%20render&fontSize=90)
 
 # 혜지 포트폴리오
 >캐치 프레이즈 ( 나를 보여줄 수 있는 한마디 )
