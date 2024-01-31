@@ -3,12 +3,8 @@
 
 ## 💡 PORTFOLIO
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limmaji&repo=hyeji)](https://github.com/Limmaji/hyeji)
-
-
 </br>
 </br>
-
-
 
 ##  ☎ Contact
 <div style="display:flex; flex-direction:row;">
@@ -16,15 +12,12 @@
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
 
-
-<a href="https://open.kakao.com/o/sJzFq66f">
+    <a href="https://open.kakao.com/o/sJzFq66f">
         <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk" alt="KakaoTalk Badge"> 
     </a>
 </div>
-
 </br>
 </br>
-
 
 ## 📁 PROJECT
 ### 1. [마약 예방 교육용 웹 페이지 개발 : 강력 1팀](https://github.com/2023-SMHRD-IS-CLOUD-1/StrongRepo)
@@ -38,7 +31,6 @@
 >[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-CLOUD-1/StrongRepo) 참고
 </br>
 </br>
-
 
 ##  💻 My Stacks
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
@@ -93,7 +85,6 @@
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
     </div>
-
 </div>
 </br>
 </br>
