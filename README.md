@@ -2,7 +2,7 @@
 
 
 ## 💡 PORTFOLIO
-[![Gist Card](https://github.com/Limmaji/hyeji.git)
+[![PORTFOLIO](https://github.com/Limmaji/hyeji.git)
 </br>
 </br>
 
