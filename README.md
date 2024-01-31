@@ -17,10 +17,9 @@
     <a href="mailto:hyeji13587@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
+</div>
 
-    
-    </br>
-    </br>
+
 
 ##  💻 My Stacks
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
@@ -77,7 +76,7 @@
     </div>
 
 </div><br>
-</div>
+
 
 ## :pushpin: Projects
 ### 1. [마약 예방 교육용 웹 페이지 개발 : 강력 1팀](https://github.com/2023-SMHRD-IS-CLOUD-1/StrongRepo)
