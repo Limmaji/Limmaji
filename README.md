@@ -8,19 +8,16 @@
 ## :pushpin: Intro
 개발자를 목표로 끊임없이 성장해가는 중 입니다.
 
-
 </br>
-## 📞 Contact 📞
+
+
+
+## :pushpin: Contact
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:hyeji13587@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
-</div><br>
-
-
-## :pushpin: Contact
-- 이메일: cisl159@naver.com
-- 깃헙: https://github.com/Limmaji
+    
 
 ## :pushpin: 기술 스택
 ## 🔨 Once I've used 🔨
