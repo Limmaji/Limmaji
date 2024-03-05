@@ -37,6 +37,23 @@
 </br>
 </br>
 
+### 2. [AI기반 CCTV분석을 통한 맞춤 광고 제공 서비스 : A_eye팀](https://github.com/KIMGUUNI/A_EyeF)
+</br>
+
+> 객체 인식, 분석을 통한 맞춤 광고 제공 및 광고 신청 웹 페이지 개발(팀 프로젝트)  
+>
+>개발 기간: 2024.02.01 ~ 2024.02.27  
+>  
+>기술 스택:
+> 
+> Java / Oracle / JS / Spring /
+> python / React / AWS /
+>  
+>[프로젝트 상세 설명](https://github.com/KIMGUUNI/A_EyeF) 참고
+> 
+</br>
+</br>
+
 ##  💻 My Stacks
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Frontend -->
